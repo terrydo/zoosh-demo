@@ -1,0 +1,11 @@
+.heading {
+  @apply font-medium;
+}
+
+h1.heading {
+  @apply text-[40px];
+}
+
+h2.heading {
+  @apply text-[28px];
+}

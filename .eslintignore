@@ -1,0 +1,3 @@
+node_modules/*
+.prettierrc
+craco.config.js
